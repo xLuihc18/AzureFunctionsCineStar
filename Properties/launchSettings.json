@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CinestarFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7147",
+      "launchBrowser": false
+    }
+  }
+}
